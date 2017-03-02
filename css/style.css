@@ -99,7 +99,7 @@ h1 {
 }
 @media (max-width: 768px) {
   .white-panel {
-    padding: 100px 10px;
+    padding: 100px 20px;
   }
 }
 .glass-panel {
@@ -288,8 +288,8 @@ img.connector {
 }
 @media (max-width: 768px) {
   img.connector {
-    width: 380px;
-    height: 72px;
+    width: 272px;
+    height: 52px;
   }
 }
 img.sc {
