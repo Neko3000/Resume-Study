@@ -67,6 +67,10 @@ h1 {
 .gbtn-blue:hover {
   background-color: #006988;
 }
+.gbtn-transparent:hover {
+  color: #888888;
+  background-color: white ;
+}
 .title-great {
   font-size: 24px;
   letter-spacing: 0.1em;
@@ -254,6 +258,10 @@ h1 {
 }
 .board .text-box .btn-group .gbtn-pure {
   border: solid white 1px;
+}
+.board .text-box .btn-group .gbtn-pure:hover {
+  color: #888888;
+  background-color: white ;
 }
 .self-intros {
   position: relative;
